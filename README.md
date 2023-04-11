@@ -1,5 +1,7 @@
 # Retail-Analysis-with-Walmart-Data-using-R
-Forecast demand using Machine Learning algorithm
+#### Forecast demand using Machine Learning algorithm
+
+Below are the Project requirements for which I did R Programming execution and Writeup. You can find those files seperately my repositories.
 
 ### DESCRIPTION :
 
